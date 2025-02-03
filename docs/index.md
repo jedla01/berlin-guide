@@ -17,7 +17,7 @@ Program je sestavený tak, aby byl pestrý a vyvážený - uvidíme slavná mís
 - [Co zařídit před odjezdem](#co-zařídit-před-odjezdem)
   - [Ekologická plaketa](#ekologická-plaketa)
   - [Jak jí opatřit](#jak-jí-opatřit)
-    - [Nákup nnline](#nákup-nnline)
+    - [Nákup online](#nákup-online)
     - [Na vybraných místech](#na-vybraných-místech)
 - [Cesta](#cesta)
 - [Hotel](#hotel)
@@ -41,7 +41,7 @@ Více informací [na stránkách dekra.cz](https://dekra.cz/stk-sme-sluzby-pro-m
 
 **Pro nákup ekoplakety vždy potřebujete s sebou malý i velký technický průkaz!**
 
-### Nákup nnline
+### Nákup online
 
 [Dekra eshop](https://eshop.dekra.cz/shop/ecos) - zde lze objednat **zelená** ekologická plaketa. Cena 400Kč + poštovné. Budete potřebovat vyplnit RZ, VIN a ofotit velký techničák. Můžete tak 7 dní čekat na doručení.
 
