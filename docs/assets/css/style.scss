@@ -1,0 +1,12 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+/* Make the header bar more narrow */
+@media screen and (min-width: 64em) {
+    body > .page-header {
+        padding: 1em;  /* Reduce padding */
+        // height: 50px; /* Adjust height */
+    }
+}
