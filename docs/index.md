@@ -21,6 +21,7 @@ Program je sestavený tak, aby byl pestrý a vyvážený - uvidíme slavná mís
     - [Na vybraných místech](#na-vybraných-místech)
 - [Cesta](#cesta)
 - [Hotel](#hotel)
+  - [Adresa](#adresa)
   - [Garáže](#garáže)
   - [Doprava v Berlíně](#doprava-v-berlíně)
     - [Linky 100 a 200](#linky-100-a-200)
@@ -77,6 +78,15 @@ Většina, jestli né všichni máme rezervaci již v hotelu **Novotel Berlin Mi
 
 **Check-in je od 15:00**, ale je domluvené, že když přijedeme dříve (což bych preferoval), tak nám zjistí, jestli jsou pokoje připravené a můžeme se ubytovat. Pokud pokoje připravené nebudou, tak můžeme nechat auta v jejich garáži a ubytovat se později.
 
+## Adresa
+
+Fischerinsel 12, 10179 Berlin, Německo<br>
+Tel: +49 302 067 40<br>
+GC74+63 Berlín, Německo
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d607.0316749295191!2d13.40448822858203!3d52.513046114417044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e27a1069947%3A0xbce682803778200a!2sNovotel%20Berlin%20Mitte!5e0!3m2!1scs!2scz!4v1738612465441!5m2!1scs!2scz" width="832" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 ## Garáže
 ![Mapa - garáže](assets/img/map01.PNG)
 
@@ -84,7 +94,7 @@ Většina, jestli né všichni máme rezervaci již v hotelu **Novotel Berlin Mi
 
 - GPS: 52°30'45.9"N 13°24'19.0"E
 - Plus code: GC74+34R Berlín, Německo
-- [G0oogle maps https://maps.app.goo.gl/Z4QdkaQyYLAt89xA6](https://maps.app.goo.gl/Z4QdkaQyYLAt89xA6)
+- [Google maps https://maps.app.goo.gl/Z4QdkaQyYLAt89xA6](https://maps.app.goo.gl/Z4QdkaQyYLAt89xA6)
 
 ---
 
