@@ -77,8 +77,11 @@ Vyřízení na počkání a i vám RZ na nálepku natisknou.
 Pro většinu bude výchozí bod Brno. Z toho tedy vycházejí následující doporučené odjezdové hodnoty:
 
 Délka trasy: **550 km**
+
 Čas na cestě: **5h 30min**
+
 Čas odjezdu: **05:00**
+
 Čas příjezdu (odhadovaný): **11:00 - 11:30**
 
 Doporučovaná trasa:
@@ -86,8 +89,6 @@ Doporučovaná trasa:
 - D8 do Ústí
 - A17 na Drážďany
 - A13 na Berlín
-
-Doporučený odjezd bych navrhoval v **04:00** s plánovaným příjezdem cca **11:20**, ale s přestávkou očekávám spíše příjezd na **12:00** za všech kladných okolností.
 
 ![Trasa](assets/img/route_michelin.PNG)
 
