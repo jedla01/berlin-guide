@@ -114,6 +114,7 @@ GC74+63 Berlín, Německo
 
 ![Foto - garáže](assets/img/garaze.PNG)
 
+- Max výška v garáži je **1,9m**
 - GPS: 52°30'45.9"N 13°24'19.0"E
 - Plus code: GC74+34R Berlín, Německo
 - [Google maps https://maps.app.goo.gl/Z4QdkaQyYLAt89xA6](https://maps.app.goo.gl/Z4QdkaQyYLAt89xA6)
