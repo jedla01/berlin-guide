@@ -34,7 +34,7 @@ Program je sestavený tak, aby byl pestrý a vyvážený - uvidíme slavná mís
   - [DDR Museum nebo Illuseum](#ddr-museum-nebo-illuseum)
 - [Den druhý](#den-druhý)
   - [Museum berlinské zdi](#museum-berlinské-zdi)
-  - [Balloon Museum | Pop Air Berlin](#balloon-museum--pop-air-berlin)
+  - [Balloon Museum, Pop Air Berlin](#balloon-museum--pop-air-berlin)
   - [Checkpoint Charlie](#checkpoint-charlie)
   - [Muzeum nechutného jídla](#muzeum-nechutného-jídla)
   - [Panorama Terrasse Park Inn](#panorama-terrasse-park-inn)
@@ -169,7 +169,7 @@ Navíc na těchto linkách lze jet i tzv. Doppeldeckerbusse (doubble-decker).
 
 Po příjezdu na hotel nebo garáže se vydáme na první návštěvu **AQUARUIM BERLIN** v těsné blízkosti zoologické zahrady.
 
-Co: [**AQUARUIM BERLIN**](https://www.aquarium-berlin.de/en)
+Co: [AQUARUIM BERLIN](https://www.aquarium-berlin.de/en)
 
 Kudy:
 - autobus 200 ze zastávky *Fischerinsel*, směr *S+U Zoologischer Garten/​Jebensstr.*, cílová zastávka *S+U Zoologischer Garten/Jebensstr*.
@@ -263,17 +263,17 @@ Kudy: tram 10, jedna zestávka z *Warschauer Straße* na *Warschauer Str.*.
 
 ## Balloon Museum | Pop Air Berlin
 
-Další možností je návštěva [Balloon Museum | Pop Air Berlin](9083S Treptower Park (Berlin)).
+Další možností je návštěva [Balloon Museum, Pop Air Berlin](9083S Treptower Park).
 
 Kudy: vlak S9 z *Warschauer Str.*, směr *9083S Treptower Park (Berlin)*, cílová zastávka *Treptower Park*.
 
-Lístky opět online na [eshop Balloon Museum | Pop Air Berlin](https://www.eventim.de/noapp/en/eventseries/3774289/?affiliate=BAJ&utm_source=BAJ&utm_medium=dp&utm_campaign=luxgermany).
+Lístky opět online na [eshop Balloon Museum, Pop Air Berlin](https://www.eventim.de/noapp/en/eventseries/3774289/?affiliate=BAJ&utm_source=BAJ&utm_medium=dp&utm_campaign=luxgermany).
 
 Je to dražší, třeba zvážit.
 
 ## Checkpoint charlie
 
-Pokud bycháme [Balloon Museum | Pop Air Berlin](#balloon-museum-pop-air-berlin), můžeme ke známému místu zvanému [Checkpoint Charlie](https://cs.wikipedia.org/wiki/Checkpoint_Charlie). Checkpoint Charlie byl hraniční přechod v Berlíně. Patří k nejznámějším přechodům rozděleného Berlína.
+Pokud bycháme [Balloon Museum, Pop Air Berlin](#balloon-museum-pop-air-berlin), můžeme ke známému místu zvanému [Checkpoint Charlie](https://cs.wikipedia.org/wiki/Checkpoint_Charlie). Checkpoint Charlie byl hraniční přechod v Berlíně. Patří k nejznámějším přechodům rozděleného Berlína.
 
 Kudy: metro U5 z *Frankfurter Tor*, směr *S+U Berlin Hauptbahnhof*, přestup na *Unter den Linden* na U6, směr *U Alt-Mariendorf (Berlin)*, cílová zastávka *Kochstr.*
 
