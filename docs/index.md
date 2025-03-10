@@ -193,6 +193,14 @@ Kdo bude mít hlad, kousek je velké nákupní centrum s food courtem.
 
 Kudy: autobus 200 ze zastávky *Fischerinsel*, směr *S+U Zoologischer Garten/​Jebensstr.*, cílová zastávka *S+U Potsdamer Platz Bhf*.
 
+## Topografie teroru
+
+Co: [Topography of Terror](https://www.topographie.de/en/)
+
+Moderní centrum na místě bývalého ústředí gestapa dokumentující hrůzy nacismu.
+
+Můžeme pouze venku prohlédnout zbytky zdi a galerii nebo i zdarma navštívit expozice týkající se Gestapa, SS, dalších výstav.
+
 ## Německé muzeum špionáže
 
 Co: [Německé muzeum špionáže](https://www.deutsches-spionagemuseum.de/en)
