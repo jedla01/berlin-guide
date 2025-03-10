@@ -285,6 +285,7 @@ Před mostem je vyhlášený stánek s burgery.
 ## Museum berlinské zdi
 
 Hned za mostem na pravém břehu Sprévy navštívíme muzeum berlínské zdi.
+UPDATE: Muzeum není za ty peníze zase tak zajímavé, možná přeskočíme.
 
 Co: [Museum berlinské zdi](https://thewallmuseum.com/en/)
 
